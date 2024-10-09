@@ -64,7 +64,7 @@ section h1
 
 .bg::after 
 {
-  background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("que hago con mi vida.jpg");
+  background: linear-gradient(rgba(0, 0, 0, .5), rgba(0, 0, 0, .5)), url("img.jpg");
   background-size: cover;
 }
 
