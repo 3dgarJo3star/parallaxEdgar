@@ -43,12 +43,6 @@ section h1
   z-index: 999;
 }
 
-.parallax h1 
-{
-  width: 60%;
-  font-size: 2rem;
-}
-
 .parallax::after 
 {
   content: " ";
